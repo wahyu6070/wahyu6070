@@ -6,7 +6,7 @@ I like to develop things
 
 ## What's the weather
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu6070&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/wahyu6070)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyu6070&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/wahyu6070)
+
 
 
 
